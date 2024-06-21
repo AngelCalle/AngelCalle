@@ -14,7 +14,7 @@
 
 ## Who I Am <img src="./assets/gifs/sunglasses.gif" alt="😎" width="30"/>
 
-I am a passionate and proactive developer with an obsession for clean code and optimal performance. My insatiable curiosity drives me to constantly explore new technologies and innovate in every project. I always seek challenges that propel my professional growth and am motivated by finding creative and efficient solutions. My goal is not just to meet but to exceed expectations in every development.
+I am a passionate and proactive developer with an obsession for clean code and optimal performance. My insatiable curiosity drives me to constantly explore new technologies and innovate in every project. I am always looking for challenges that boost my professional performance and motivate me to find creative and efficient solutions. My goal is not just to meet but to exceed expectations in every development.
 
 ```ts
 const Angel_Calle = {
